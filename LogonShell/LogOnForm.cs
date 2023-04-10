@@ -714,7 +714,6 @@ namespace LogonShell
 			textBox1.Location = new System.Drawing.Point(26, pictureBox2.Location.Y + 21);
             pictureBox5.Location = new System.Drawing.Point(26, pictureBox2.Location.Y + 21);
 			PFP.Location = new System.Drawing.Point(SelectedUser.Location.X + 10 + 5, SelectedUser.Location.Y + 7 + 5);
-            this.TopMost = false;
 			textBoxPassword.Location = new System.Drawing.Point(pictureBox1.Location.X + 10, pictureBox1.Location.Y + 3);
 
 			TypeUrPass.Parent = SelectedUser;
