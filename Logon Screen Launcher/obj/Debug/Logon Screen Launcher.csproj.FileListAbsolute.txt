@@ -1,0 +1,174 @@
+C:\Users\v315933\Desktop\Logon Screen Launcher\Logon Screen Launcher\obj\Debug\Interop.EventSystemLib.dll
+C:\Users\v315933\Desktop\Logon Screen Launcher\Logon Screen Launcher\obj\Debug\Interop.SensEvents.dll
+C:\Users\v315933\Desktop\Logon Screen Launcher\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.ResolveComReference.cache
+C:\Users\v315933\Desktop\Logon Screen Launcher\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.exe
+C:\Users\v315933\Desktop\Logon Screen Launcher\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.pdb
+C:\Users\v315933\Desktop\Logon Screen Launcher\Logon Screen Launcher\bin\Debug\ManagedSENS.dll
+C:\Users\v315933\Desktop\Logon Screen Launcher\Logon Screen Launcher\bin\Debug\Interop.EventSystemLib.dll
+C:\Users\v315933\Desktop\Logon Screen Launcher\Logon Screen Launcher\bin\Debug\Interop.SensEvents.dll
+C:\Users\v315933\Desktop\Logon Screen Launcher\Logon Screen Launcher\bin\Debug\ManagedSENS.pdb
+C:\Users\v315933\Desktop\Logon Screen Launcher\Logon Screen Launcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v315933\Desktop\Logon Screen Launcher\Logon Screen Launcher\obj\Debug\Ellanet.ProjectInstaller.resources
+C:\Users\v315933\Desktop\Logon Screen Launcher\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.GenerateResource.Cache
+C:\Users\v315933\Desktop\Logon Screen Launcher\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.exe
+C:\Users\v315933\Desktop\Logon Screen Launcher\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.pdb
+C:\Users\v315933\Desktop\Logon Screen Launcher\Logon Screen Launcher\bin\Debug\LogonApps.xml
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\Logon Screen Launcher\obj\Debug\ResolveAssemblyReference.cache
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\Logon Screen Launcher\obj\Debug\Interop.EventSystemLib.dll
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\Logon Screen Launcher\obj\Debug\Interop.SensEvents.dll
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.ResolveComReference.cache
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\Logon Screen Launcher\obj\Debug\Ellanet.ProjectInstaller.resources
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.GenerateResource.Cache
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\Logon Screen Launcher\bin\Debug\LogonApps.xml
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.exe
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.pdb
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\Logon Screen Launcher\bin\Debug\InjectProcess.dll
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\Logon Screen Launcher\bin\Debug\ManagedSENS.dll
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\Logon Screen Launcher\bin\Debug\Interop.EventSystemLib.dll
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\Logon Screen Launcher\bin\Debug\Interop.SensEvents.dll
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\Logon Screen Launcher\bin\Debug\InjectProcess.pdb
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\Logon Screen Launcher\bin\Debug\InjectProcess.xml
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\Logon Screen Launcher\bin\Debug\ManagedSENS.pdb
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.exe
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.pdb
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\LogonApps.xml
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.exe
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.pdb
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\InjectProcess.dll
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\ManagedSENS.dll
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\Interop.SensEvents.dll
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\InjectProcess.pdb
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\InjectProcess.xml
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\ManagedSENS.pdb
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\Logon Screen Launcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Interop.SensEvents.dll
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.ResolveComReference.cache
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Ellanet.ProjectInstaller.resources
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.GenerateResource.Cache
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.exe
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.pdb
+C:\Users\Steve\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\LogonApps.xml
+C:\Users\Steve\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.exe
+C:\Users\Steve\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.pdb
+C:\Users\Steve\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\InjectProcess.dll
+C:\Users\Steve\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\ManagedSENS.dll
+C:\Users\Steve\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\Interop.SensEvents.dll
+C:\Users\Steve\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\InjectProcess.pdb
+C:\Users\Steve\Desktop\logonscreenlauncher\Logon Screen Launcher\bin\Debug\ManagedSENS.pdb
+C:\Users\Steve\Desktop\logonscreenlauncher\Logon Screen Launcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve\Desktop\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Interop.SensEvents.dll
+C:\Users\Steve\Desktop\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.ResolveComReference.cache
+C:\Users\Steve\Desktop\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Ellanet.ProjectInstaller.resources
+C:\Users\Steve\Desktop\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.GenerateResource.Cache
+C:\Users\Steve\Desktop\logonscreenlauncher\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.exe
+C:\Users\Steve\Desktop\logonscreenlauncher\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.pdb
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\Logon Screen Launcher\bin\Debug\LogonApps.xml
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.exe
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.pdb
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\Logon Screen Launcher\bin\Debug\InjectProcess.dll
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\Logon Screen Launcher\bin\Debug\ManagedSENS.dll
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\Logon Screen Launcher\bin\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\Logon Screen Launcher\bin\Debug\Interop.SensEvents.dll
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\Logon Screen Launcher\bin\Debug\InjectProcess.pdb
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\Logon Screen Launcher\bin\Debug\InjectProcess.xml
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\Logon Screen Launcher\bin\Debug\ManagedSENS.pdb
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\Logon Screen Launcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\Logon Screen Launcher\obj\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\Logon Screen Launcher\obj\Debug\Interop.SensEvents.dll
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.ResolveComReference.cache
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\Logon Screen Launcher\obj\Debug\Ellanet.ProjectInstaller.resources
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.GenerateResource.Cache
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.exe
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.pdb
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\Logon Screen Launcher\bin\Debug\LogonApps.xml
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.exe
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.pdb
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\Logon Screen Launcher\bin\Debug\InjectProcess.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\Logon Screen Launcher\bin\Debug\ManagedSENS.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\Logon Screen Launcher\bin\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\Logon Screen Launcher\bin\Debug\Interop.SensEvents.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\Logon Screen Launcher\bin\Debug\InjectProcess.pdb
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\Logon Screen Launcher\bin\Debug\InjectProcess.xml
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\Logon Screen Launcher\bin\Debug\ManagedSENS.pdb
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\Logon Screen Launcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\Logon Screen Launcher\obj\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\Logon Screen Launcher\obj\Debug\Interop.SensEvents.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.ResolveComReference.cache
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\Logon Screen Launcher\obj\Debug\Ellanet.ProjectInstaller.resources
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.GenerateResource.Cache
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.exe
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.pdb
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\Logon Screen Launcher\bin\Debug\LogonApps.xml
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.exe
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.pdb
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\Logon Screen Launcher\bin\Debug\InjectProcess.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\Logon Screen Launcher\bin\Debug\ManagedSENS.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\Logon Screen Launcher\bin\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\Logon Screen Launcher\bin\Debug\Interop.SensEvents.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\Logon Screen Launcher\bin\Debug\InjectProcess.pdb
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\Logon Screen Launcher\bin\Debug\ManagedSENS.pdb
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\Logon Screen Launcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Interop.SensEvents.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.ResolveComReference.cache
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Ellanet.ProjectInstaller.resources
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.GenerateResource.Cache
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.exe
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\bin\Debug\LogonApps.xml
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\bin\Debug\InjectProcess.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\bin\Debug\ManagedSENS.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\bin\Debug\Interop.EventSystemLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\bin\Debug\Interop.SensEvents.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\bin\Debug\InjectProcess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\bin\Debug\ManagedSENS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Interop.EventSystemLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Interop.SensEvents.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Ellanet.ProjectInstaller.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Debug\LogonApps.xml
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Debug\InjectProcess.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Debug\ManagedSENS.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Debug\Interop.EventSystemLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Debug\Interop.SensEvents.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Debug\InjectProcess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Debug\ManagedSENS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Debug\Interop.EventSystemLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Debug\Interop.SensEvents.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Debug\Ellanet.ProjectInstaller.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.pdb
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\obj\Debug\Interop.EventSystemLib.dll
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\obj\Debug\Interop.SensEvents.dll
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.ResolveComReference.cache
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\obj\Debug\ClassicLogonShell.ProjectInstaller.resources
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.GenerateResource.cache
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\obj\Debug\Logon Screen Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.exe
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\obj\Debug\LogonScreenLauncher.pdb
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.exe.config
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.exe
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\bin\Debug\LogonScreenLauncher.pdb
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\bin\Debug\Interop.EventSystemLib.dll
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\bin\Debug\Interop.SensEvents.dll

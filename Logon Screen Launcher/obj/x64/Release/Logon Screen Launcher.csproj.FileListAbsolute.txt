@@ -1,0 +1,37 @@
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\bin\x64\Release\LogonScreenLauncher.exe.config
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\bin\x64\Release\LogonScreenLauncher.exe
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\bin\x64\Release\Interop.EventSystemLib.dll
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\obj\x64\Release\Interop.EventSystemLib.dll
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.ResolveComReference.cache
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\obj\x64\Release\ClassicLogonShell.ProjectInstaller.resources
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.GenerateResource.cache
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\lsl\Logon Screen Launcher\obj\x64\Release\LogonScreenLauncher.exe
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\Logon Screen Launcher\bin\x64\Release\Interop.EventSystemLib.dll
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.AssemblyReference.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\Logon Screen Launcher\obj\x64\Release\Interop.EventSystemLib.dll
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.ResolveComReference.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\Logon Screen Launcher\obj\x64\Release\ClassicLogonShell.ProjectInstaller.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.GenerateResource.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\Logon Screen Launcher\bin\x64\Release\LauncherService.exe
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\Logon Screen Launcher\obj\x64\Release\LauncherService.exe
+C:\Users\Nicola\Desktop\Classic Logon Shell\Logon Screen Launcher\bin\x64\Release\LauncherService.exe
+C:\Users\Nicola\Desktop\Classic Logon Shell\Logon Screen Launcher\bin\x64\Release\Interop.EventSystemLib.dll
+C:\Users\Nicola\Desktop\Classic Logon Shell\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.AssemblyReference.cache
+C:\Users\Nicola\Desktop\Classic Logon Shell\Logon Screen Launcher\obj\x64\Release\Interop.EventSystemLib.dll
+C:\Users\Nicola\Desktop\Classic Logon Shell\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.ResolveComReference.cache
+C:\Users\Nicola\Desktop\Classic Logon Shell\Logon Screen Launcher\obj\x64\Release\ClassicLogonShell.ProjectInstaller.resources
+C:\Users\Nicola\Desktop\Classic Logon Shell\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.GenerateResource.cache
+C:\Users\Nicola\Desktop\Classic Logon Shell\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Nicola\Desktop\Classic Logon Shell\Logon Screen Launcher\obj\x64\Release\LauncherService.exe
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\Logon Screen Launcher\bin\x64\Release\LauncherService.exe
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\Logon Screen Launcher\bin\x64\Release\Interop.EventSystemLib.dll
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\Logon Screen Launcher\obj\x64\Release\Interop.EventSystemLib.dll
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\Logon Screen Launcher\obj\x64\Release\ClassicLogonShell.ProjectInstaller.resources
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\Logon Screen Launcher\obj\x64\Release\LauncherService.exe

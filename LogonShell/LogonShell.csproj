@@ -137,6 +137,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cache.cs" />
+    <Compile Include="SecondaryBackgrounds1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SecondaryBackgrounds.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SecondaryBackgroundsBase.cs" />
     <Compile Include="ShutdownBackgroundForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -197,6 +203,9 @@
     <EmbeddedResource Include="CustomTextBox.resx">
       <DependentUpon>CustomTextBox.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="LogOnForm.resx">
+      <DependentUpon>LogOnForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ShutdownBackgroundForm.resx">
       <DependentUpon>ShutdownBackgroundForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -207,12 +216,11 @@
     </EmbeddedResource>
     <EmbeddedResource Include="SecondaryBackgrounds.resx">
       <DependentUpon>SecondaryBackgrounds.cs</DependentUpon>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>SecondaryBackgrounds1.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="BackgroundForm.resx">
       <DependentUpon>BackgroundForm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="LogOnForm.resx">
-      <DependentUpon>LogOnForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

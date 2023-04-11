@@ -1,7 +1,7 @@
 ﻿
 namespace LogonShell
 {
-    partial class SecondaryBackgrounds
+    public partial class SecondaryBackgrounds
     {
         /// <summary>
         /// Required designer variable.

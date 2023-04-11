@@ -1,0 +1,144 @@
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\x64\Release\LogonShell.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\x64\Release\LogonShell.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\x64\Release\Interop.MSTSCLib.dll
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\x64\Release\AxInterop.MSTSCLib.dll
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\x64\Release\LogonShell.csproj.ResolveComReference.cache
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\bin\x64\Release\LogonShell.exe.config
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\bin\x64\Release\LogonShell.exe
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\bin\x64\Release\LogonShell.pdb
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\bin\x64\Release\Interop.MSTSCLib.dll
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\bin\x64\Release\AxInterop.MSTSCLib.dll
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\x64\Release\LogonShell.LogOnForm.resources
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\x64\Release\LogonShell.Properties.Resources.resources
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\x64\Release\LogonShell.ShutDownForm.resources
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\x64\Release\LogonShell.csproj.GenerateResource.cache
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\x64\Release\LogonShell.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\x64\Release\LogonShell.exe
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\x64\Release\LogonShell.pdb
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\x64\Release\LogonShell.BackgroundForm.resources
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\x64\Release\LogonShell.SecondaryBackgrounds.resources
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\x64\Release\LogonShell.MessageBoxForm.resources
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\x64\Release\LogonShell.exe.config
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\x64\Release\LogonShell.exe
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\x64\Release\LogonShell.pdb
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\x64\Release\Interop.MSTSCLib.dll
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\x64\Release\AxInterop.MSTSCLib.dll
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\Interop.MSTSCLib.dll
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\AxInterop.MSTSCLib.dll
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.csproj.ResolveComReference.cache
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.SecondaryBackgrounds.resources
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.BackgroundForm.resources
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.LogOnForm.resources
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.Properties.Resources.resources
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.MessageBoxForm.resources
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.ShutDownForm.resources
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.csproj.GenerateResource.cache
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.exe
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.pdb
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\x64\Release\FlaUI.Core.dll
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\x64\Release\FlaUI.UIA3.dll
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\x64\Release\Interop.UIAutomationClient.dll
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\x64\Release\FlaUI.Core.xml
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\x64\Release\FlaUI.UIA3.xml
+C:\Users\Nik\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.csproj.CopyComplete
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\x64\Release\LogonShell.exe
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\x64\Release\FlaUI.UIA3.dll
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\x64\Release\Interop.UIAutomationClient.dll
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.csproj.AssemblyReference.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.SecondaryBackgrounds.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.BackgroundForm.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.LogOnForm.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.Properties.Resources.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.MessageBoxForm.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.ShutDownForm.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.csproj.GenerateResource.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.csproj.CoreCompileInputs.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.csproj.CopyComplete
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.exe
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\x64\Release\LogonShell.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\x64\Release\FlaUI.Core.dll
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\x64\Release\System.CodeDom.dll
+C:\Users\Nicola\Desktop\old cls\LogonShell\bin\x64\Release\LogonShell.exe
+C:\Users\Nicola\Desktop\old cls\LogonShell\bin\x64\Release\FlaUI.Core.dll
+C:\Users\Nicola\Desktop\old cls\LogonShell\bin\x64\Release\FlaUI.UIA3.dll
+C:\Users\Nicola\Desktop\old cls\LogonShell\bin\x64\Release\Interop.UIAutomationClient.dll
+C:\Users\Nicola\Desktop\old cls\LogonShell\bin\x64\Release\System.CodeDom.dll
+C:\Users\Nicola\Desktop\old cls\LogonShell\obj\x64\Release\LogonShell.csproj.AssemblyReference.cache
+C:\Users\Nicola\Desktop\old cls\LogonShell\obj\x64\Release\LogonShell.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicola\Desktop\old cls\LogonShell\obj\x64\Release\LogonShell.SecondaryBackgrounds.resources
+C:\Users\Nicola\Desktop\old cls\LogonShell\obj\x64\Release\LogonShell.BackgroundForm.resources
+C:\Users\Nicola\Desktop\old cls\LogonShell\obj\x64\Release\LogonShell.LogOnForm.resources
+C:\Users\Nicola\Desktop\old cls\LogonShell\obj\x64\Release\LogonShell.Properties.Resources.resources
+C:\Users\Nicola\Desktop\old cls\LogonShell\obj\x64\Release\LogonShell.MessageBoxForm.resources
+C:\Users\Nicola\Desktop\old cls\LogonShell\obj\x64\Release\LogonShell.ShutDownForm.resources
+C:\Users\Nicola\Desktop\old cls\LogonShell\obj\x64\Release\LogonShell.csproj.GenerateResource.cache
+C:\Users\Nicola\Desktop\old cls\LogonShell\obj\x64\Release\LogonShell.csproj.CoreCompileInputs.cache
+C:\Users\Nicola\Desktop\old cls\LogonShell\obj\x64\Release\LogonShell.csproj.CopyComplete
+C:\Users\Nicola\Desktop\old cls\LogonShell\obj\x64\Release\LogonShell.exe
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\bin\x64\Release\LogonShell.exe
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\bin\x64\Release\FlaUI.Core.dll
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\bin\x64\Release\FlaUI.UIA3.dll
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\bin\x64\Release\Interop.UIAutomationClient.dll
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\bin\x64\Release\System.CodeDom.dll
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.csproj.AssemblyReference.cache
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.SecondaryBackgrounds.resources
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.BackgroundForm.resources
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.LogOnForm.resources
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.Properties.Resources.resources
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.MessageBoxForm.resources
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.ShutDownForm.resources
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.csproj.GenerateResource.cache
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.csproj.CoreCompileInputs.cache
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.csproj.CopyComplete
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.exe
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.Help.resources
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.ShutdownBackgroundForm.resources
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\Interop.WUApiLib.dll
+C:\Users\Nicola\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.csproj.ResolveComReference.cache
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\bin\x64\Release\LogonShell.exe
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\bin\x64\Release\FlaUI.Core.dll
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\bin\x64\Release\FlaUI.UIA3.dll
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\bin\x64\Release\Interop.UIAutomationClient.dll
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\bin\x64\Release\System.CodeDom.dll
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\Interop.WUApiLib.dll
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.csproj.ResolveComReference.cache
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.ShutdownBackgroundForm.resources
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.Help.resources
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.SecondaryBackgrounds.resources
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.BackgroundForm.resources
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.LogOnForm.resources
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.Properties.Resources.resources
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.MessageBoxForm.resources
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.ShutDownForm.resources
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.csproj.GenerateResource.cache
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.csproj.CopyComplete
+C:\Users\Nik\Desktop\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.exe
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\obj\x64\Release\Interop.WUApiLib.dll
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.CustomTextBox.resources
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.LogOnForm.resources
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.ShutdownBackgroundForm.resources
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.Help.resources
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.SecondaryBackgrounds.resources
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.BackgroundForm.resources
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.MessageBoxForm.resources
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.ShutDownForm.resources
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\bin\x64\Release\LogonShell.exe
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\bin\x64\Release\FlaUI.Core.dll
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\bin\x64\Release\FlaUI.UIA3.dll
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\bin\x64\Release\Interop.UIAutomationClient.dll
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\bin\x64\Release\System.CodeDom.dll
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.csproj.CopyComplete
+C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShell\obj\x64\Release\LogonShell.exe

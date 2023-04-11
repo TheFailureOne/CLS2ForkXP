@@ -498,8 +498,25 @@ namespace LogonShell
 				{
 					pictureBoxBanner.SizeMode = PictureBoxSizeMode.CenterImage;
 				}
-				labelLoading.Visible = true;
-			}
+                TypeUrPass.Parent = pictureBox6;
+                UserLabel.Parent = pictureBox6;
+                PFPAround.Parent = pictureBox6;
+
+                labelLoading.Location = new System.Drawing.Point(TypeUrPass.Location.X + pictureBox6.Location.X, TypeUrPass.Location.Y + pictureBox6.Location.Y);
+
+                labelLoading.Visible = true;
+                TypeUrPass.Visible = false;
+                pictureBox1.Visible = false;
+                textBoxPassword.Visible = false;
+                SelectedUser.Visible = false;
+				XPlogo.Visible = false;
+				ToBegin.Visible = true;
+				OKButt.Visible = false;
+
+                ToBegin.Font = new System.Drawing.Font("Tahoma", 30F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+				ToBegin.Text = "Welcome";
+                ToBegin.Location = new System.Drawing.Point(VerticalSeparator.Location.X - ToBegin.Width - 40, (System.Windows.SystemParameters.WorkArea.Height.ToInt() / 2) - ToBegin.Height);
+            }
 		}
 
 		private void LoadUI()
@@ -542,7 +559,6 @@ namespace LogonShell
 			buttonShutdown.Text = Settings.Read(9, true);
 			labelPassword.Text = Settings.Read(6, true);
 			labelUsername.Text = Settings.Read(7, true);
-			labelLoading.Text = Settings.Read(11, true);
 			labelShutdown.Text = Settings.Read(14, true);
 			labelDomain.Text = Settings.Read(24, true);
 			checkBoxDialUp.Text = Settings.Read(25, true);
@@ -695,12 +711,12 @@ namespace LogonShell
         {
             this.FormBorderStyle = FormBorderStyle.None;
 			pictureBoxLoading.Width = System.Windows.SystemParameters.WorkArea.Width.ToInt() + 6;
-            pictureBox2.Location = new System.Drawing.Point(0, System.Windows.SystemParameters.WorkArea.Height.ToInt() - 46);
-            pictureBox3.Location = new System.Drawing.Point(0, System.Windows.SystemParameters.WorkArea.Height.ToInt() - 49);
+            pictureBox2.Location = new System.Drawing.Point(0, System.Windows.SystemParameters.WorkArea.Height.ToInt() - 81 + 5);
+            pictureBox3.Location = new System.Drawing.Point(0, pictureBox2.Location.Y - 3);
             pictureBoxBanner.Width = System.Windows.SystemParameters.WorkArea.Width.ToInt() + 6;
             pictureBox2.Width = System.Windows.SystemParameters.WorkArea.Width.ToInt() + 6;
             pictureBox3.Width = System.Windows.SystemParameters.WorkArea.Width.ToInt() + 6;
-			AddAcc.Location = new System.Drawing.Point(System.Windows.SystemParameters.WorkArea.Width.ToInt() + 6 - 334, System.Windows.SystemParameters.WorkArea.Height.ToInt() - 30);
+			AddAcc.Location = new System.Drawing.Point(System.Windows.SystemParameters.WorkArea.Width.ToInt() + 6 - 334, pictureBox2.Location.Y + 16);
 			VerticalSeparator.Height = (pictureBox3.Location.Y - 1) - 90;
             VerticalSeparator.Location = new System.Drawing.Point((System.Windows.SystemParameters.WorkArea.Width.ToInt()/2)-2, 90);
 			SelectedUser.Location = new System.Drawing.Point(VerticalSeparator.Location.X+25, System.Windows.SystemParameters.WorkArea.Height.ToInt() / 2 - 26);
@@ -715,8 +731,10 @@ namespace LogonShell
             pictureBox5.Location = new System.Drawing.Point(26, pictureBox2.Location.Y + 21);
 			PFP.Location = new System.Drawing.Point(SelectedUser.Location.X + 10 + 5, SelectedUser.Location.Y + 7 + 5);
 			textBoxPassword.Location = new System.Drawing.Point(pictureBox1.Location.X + 10, pictureBox1.Location.Y + 3);
+            
+            pictureBox6.Location = new System.Drawing.Point(SelectedUser.Location.X, SelectedUser.Location.Y);
 
-			TypeUrPass.Parent = SelectedUser;
+            TypeUrPass.Parent = SelectedUser;
 			UserLabel.Parent = SelectedUser;
 			PFPAround.Parent = SelectedUser;
 			UserLabel.Text = comboBoxUsername.Text;

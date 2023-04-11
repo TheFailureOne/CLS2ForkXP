@@ -78,6 +78,7 @@ namespace LogonShell
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.PFP = new System.Windows.Forms.PictureBox();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxKeySequence)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxBanner)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCapsLock)).BeginInit();
@@ -93,6 +94,7 @@ namespace LogonShell
             ((System.ComponentModel.ISupportInitialize)(this.XPlogo)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.PFP)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             this.SuspendLayout();
             // 
             // textBoxPassword
@@ -161,7 +163,6 @@ namespace LogonShell
             this.buttonShutdown.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonShutdown.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonShutdown.ForeColor = System.Drawing.Color.White;
-            this.buttonShutdown.Image = ((System.Drawing.Image)(resources.GetObject("buttonShutdown.Image")));
             this.buttonShutdown.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.buttonShutdown.Location = new System.Drawing.Point(895, 653);
             this.buttonShutdown.Name = "buttonShutdown";
@@ -182,6 +183,7 @@ namespace LogonShell
             this.buttonDummy.TabIndex = 10;
             this.buttonDummy.Text = "Dummy";
             this.buttonDummy.UseVisualStyleBackColor = true;
+            this.buttonDummy.Visible = false;
             this.buttonDummy.Click += new System.EventHandler(this.buttonDummy_Click);
             // 
             // labelLoading
@@ -394,7 +396,7 @@ namespace LogonShell
             // pictureBox2
             // 
             this.pictureBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(156)))));
-            this.pictureBox2.Location = new System.Drawing.Point(0, 692);
+            this.pictureBox2.Location = new System.Drawing.Point(0, 602);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(1493, 81);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -503,7 +505,6 @@ namespace LogonShell
             this.buttonOK.FlatAppearance.BorderColor = System.Drawing.Color.White;
             this.buttonOK.FlatAppearance.BorderSize = 0;
             this.buttonOK.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonOK.Image = ((System.Drawing.Image)(resources.GetObject("buttonOK.Image")));
             this.buttonOK.Location = new System.Drawing.Point(1121, 580);
             this.buttonOK.Name = "buttonOK";
             this.buttonOK.Size = new System.Drawing.Size(32, 30);
@@ -589,6 +590,15 @@ namespace LogonShell
             this.PFP.TabIndex = 42;
             this.PFP.TabStop = false;
             // 
+            // pictureBox6
+            // 
+            this.pictureBox6.Location = new System.Drawing.Point(612, 323);
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.Size = new System.Drawing.Size(308, 72);
+            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox6.TabIndex = 43;
+            this.pictureBox6.TabStop = false;
+            // 
             // LogOnForm
             // 
             this.AcceptButton = this.buttonOK;
@@ -638,6 +648,7 @@ namespace LogonShell
             this.Controls.Add(this.labelUsername);
             this.Controls.Add(this.pictureBoxBanner);
             this.Controls.Add(this.labelHint);
+            this.Controls.Add(this.pictureBox6);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "LogOnForm";
@@ -665,6 +676,7 @@ namespace LogonShell
             ((System.ComponentModel.ISupportInitialize)(this.XPlogo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.PFP)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -717,6 +729,7 @@ namespace LogonShell
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.PictureBox PFP;
+        private System.Windows.Forms.PictureBox pictureBox6;
     }
 }
 

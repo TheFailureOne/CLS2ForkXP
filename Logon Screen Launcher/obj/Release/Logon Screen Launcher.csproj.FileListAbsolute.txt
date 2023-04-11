@@ -1,0 +1,39 @@
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\bin\Release\LogonApps.xml
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\bin\Release\LogonScreenLauncher.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\bin\Release\LogonScreenLauncher.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\bin\Release\InjectProcess.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\bin\Release\ManagedSENS.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\bin\Release\Interop.EventSystemLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\bin\Release\Interop.SensEvents.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\bin\Release\InjectProcess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\bin\Release\ManagedSENS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Release\Logon Screen Launcher.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Release\Interop.EventSystemLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Release\Interop.SensEvents.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Release\Logon Screen Launcher.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Release\Ellanet.ProjectInstaller.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Release\Logon Screen Launcher.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Release\Logon Screen Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Release\Logon Screen Launcher.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Release\LogonScreenLauncher.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher\Logon Screen Launcher\obj\Release\LogonScreenLauncher.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Release\LogonApps.xml
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Release\LogonScreenLauncher.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Release\LogonScreenLauncher.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Release\LogonScreenLauncher.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Release\InjectProcess.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Release\ManagedSENS.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Release\Interop.EventSystemLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Release\Interop.SensEvents.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Release\InjectProcess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\bin\Release\ManagedSENS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Release\Logon Screen Launcher.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Release\Interop.EventSystemLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Release\Interop.SensEvents.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Release\Logon Screen Launcher.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Release\Ellanet.ProjectInstaller.resources
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Release\Logon Screen Launcher.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Release\Logon Screen Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Release\Logon Screen Launcher.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Release\LogonScreenLauncher.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\logonscreenlauncher_.NET4\Logon Screen Launcher\obj\Release\LogonScreenLauncher.pdb

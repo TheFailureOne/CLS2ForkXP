@@ -1,0 +1,43 @@
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\Debug\LogonShell.csproj.AssemblyReference.cache
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\Debug\LogonShell.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\Debug\LogonShell.csproj.ResolveComReference.cache
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\bin\Debug\LogonShell.exe.config
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\bin\Debug\LogonShell.exe
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\bin\Debug\LogonShell.pdb
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\Debug\LogonShell.BackgroundForm.resources
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\Debug\LogonShell.LogOnForm.resources
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\Debug\LogonShell.Properties.Resources.resources
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\Debug\LogonShell.ShutDownForm.resources
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\Debug\LogonShell.csproj.GenerateResource.cache
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\Debug\LogonShell.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\Debug\LogonShell.exe
+C:\Users\Nik\Desktop\ClassicLogonShell-master\LogonShell\obj\Debug\LogonShell.pdb
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\Debug\LogonShell.exe.config
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\Debug\LogonShell.exe
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\Debug\LogonShell.pdb
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\Debug\FlaUI.Core.dll
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\Debug\FlaUI.UIA3.dll
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\Debug\Interop.UIAutomationClient.dll
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\Debug\FlaUI.Core.xml
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\Debug\FlaUI.UIA3.xml
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\Debug\LogonShell.csproj.AssemblyReference.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\Debug\LogonShell.csproj.ResolveComReference.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\Debug\LogonShell.SecondaryBackgrounds.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\Debug\LogonShell.BackgroundForm.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\Debug\LogonShell.LogOnForm.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\Debug\LogonShell.Properties.Resources.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\Debug\LogonShell.MessageBoxForm.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\Debug\LogonShell.ShutDownForm.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\Debug\LogonShell.csproj.GenerateResource.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\Debug\LogonShell.csproj.CoreCompileInputs.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\Debug\LogonShell.csproj.CopyComplete
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\Debug\LogonShell.exe
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShell\obj\Debug\LogonShell.pdb

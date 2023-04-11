@@ -1,0 +1,11 @@
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\Release\LogonShellCustomizer.csproj.AssemblyReference.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\Release\LogonShellCustomizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\Release\LogonShellCustomizer.MainWindow.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\Release\LogonShellCustomizer.Properties.Resources.resources
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\Release\LogonShellCustomizer.csproj.GenerateResource.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\Release\LogonShellCustomizer.csproj.CoreCompileInputs.cache
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\bin\Release\Customizer.exe.config
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\bin\Release\Customizer.exe
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\bin\Release\Customizer.pdb
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\Release\Customizer.exe
+C:\Users\Nicola\Desktop\ClassicLogonShell-master - Copia\LogonShellCustomizer\obj\Release\Customizer.pdb
