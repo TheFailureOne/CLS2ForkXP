@@ -173,6 +173,7 @@ namespace LogonShell
 
         private void BackgroundForm_Load(object sender, EventArgs e)
         {
+            this.TopMost = false;
         }
     }
 }
