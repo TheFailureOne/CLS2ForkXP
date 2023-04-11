@@ -32,7 +32,6 @@ namespace LogonShell
 		private void InitializeComponent()
 		{
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(LogOnForm));
             this.textBoxPassword = new System.Windows.Forms.TextBox();
             this.buttonOptions = new System.Windows.Forms.Button();
             this.buttonCancel = new System.Windows.Forms.Button();
@@ -161,7 +160,6 @@ namespace LogonShell
             this.buttonShutdown.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonShutdown.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonShutdown.ForeColor = System.Drawing.Color.White;
-            this.buttonShutdown.Image = ((System.Drawing.Image)(resources.GetObject("buttonShutdown.Image")));
             this.buttonShutdown.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.buttonShutdown.Location = new System.Drawing.Point(895, 653);
             this.buttonShutdown.Name = "buttonShutdown";
@@ -182,22 +180,26 @@ namespace LogonShell
             this.buttonDummy.TabIndex = 10;
             this.buttonDummy.Text = "Dummy";
             this.buttonDummy.UseVisualStyleBackColor = true;
+            this.buttonDummy.Visible = false;
             this.buttonDummy.Click += new System.EventHandler(this.buttonDummy_Click);
             // 
             // labelLoading
             // 
             this.labelLoading.AutoSize = true;
-            this.labelLoading.Location = new System.Drawing.Point(272, 205);
+            this.labelLoading.BackColor = System.Drawing.Color.Transparent;
+            this.labelLoading.Font = new System.Drawing.Font("Tahoma", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelLoading.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(55)))), ((int)(((byte)(152)))));
+            this.labelLoading.Location = new System.Drawing.Point(795, 320);
             this.labelLoading.Name = "labelLoading";
-            this.labelLoading.Size = new System.Drawing.Size(161, 13);
+            this.labelLoading.Size = new System.Drawing.Size(166, 13);
             this.labelLoading.TabIndex = 11;
-            this.labelLoading.Text = "Applying your personal settings...";
+            this.labelLoading.Text = "Loading your personal settings...";
             this.labelLoading.Visible = false;
             // 
             // comboBoxUsername
             // 
             this.comboBoxUsername.FormattingEnabled = true;
-            this.comboBoxUsername.Location = new System.Drawing.Point(344, 208);
+            this.comboBoxUsername.Location = new System.Drawing.Point(325, 138);
             this.comboBoxUsername.Name = "comboBoxUsername";
             this.comboBoxUsername.Size = new System.Drawing.Size(243, 21);
             this.comboBoxUsername.TabIndex = 13;
@@ -214,7 +216,7 @@ namespace LogonShell
             // labelKeySequence
             // 
             this.labelKeySequence.AutoSize = true;
-            this.labelKeySequence.Location = new System.Drawing.Point(129, 251);
+            this.labelKeySequence.Location = new System.Drawing.Point(132, 334);
             this.labelKeySequence.Name = "labelKeySequence";
             this.labelKeySequence.Size = new System.Drawing.Size(156, 13);
             this.labelKeySequence.TabIndex = 15;
@@ -362,7 +364,6 @@ namespace LogonShell
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(964, 348);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(172, 29);
@@ -383,7 +384,6 @@ namespace LogonShell
             // 
             // pictureBoxLoading
             // 
-            this.pictureBoxLoading.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxLoading.Image")));
             this.pictureBoxLoading.Location = new System.Drawing.Point(0, 81);
             this.pictureBoxLoading.Name = "pictureBoxLoading";
             this.pictureBoxLoading.Size = new System.Drawing.Size(1366, 2);
@@ -394,7 +394,7 @@ namespace LogonShell
             // pictureBox2
             // 
             this.pictureBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(156)))));
-            this.pictureBox2.Location = new System.Drawing.Point(0, 692);
+            this.pictureBox2.Location = new System.Drawing.Point(12, 566);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(1493, 81);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -403,7 +403,6 @@ namespace LogonShell
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
             this.pictureBox3.Location = new System.Drawing.Point(0, 689);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(1366, 3);
@@ -430,7 +429,6 @@ namespace LogonShell
             // 
             // VerticalSeparator
             // 
-            this.VerticalSeparator.Image = ((System.Drawing.Image)(resources.GetObject("VerticalSeparator.Image")));
             this.VerticalSeparator.Location = new System.Drawing.Point(702, 116);
             this.VerticalSeparator.Name = "VerticalSeparator";
             this.VerticalSeparator.Size = new System.Drawing.Size(1, 340);
@@ -440,7 +438,6 @@ namespace LogonShell
             // 
             // SelectedUser
             // 
-            this.SelectedUser.Image = ((System.Drawing.Image)(resources.GetObject("SelectedUser.Image")));
             this.SelectedUser.Location = new System.Drawing.Point(720, 245);
             this.SelectedUser.Name = "SelectedUser";
             this.SelectedUser.Size = new System.Drawing.Size(308, 72);
@@ -451,7 +448,6 @@ namespace LogonShell
             // PFPAround
             // 
             this.PFPAround.BackColor = System.Drawing.Color.Transparent;
-            this.PFPAround.Image = ((System.Drawing.Image)(resources.GetObject("PFPAround.Image")));
             this.PFPAround.Location = new System.Drawing.Point(731, 251);
             this.PFPAround.Name = "PFPAround";
             this.PFPAround.Size = new System.Drawing.Size(58, 58);
@@ -486,7 +482,6 @@ namespace LogonShell
             // OKButt
             // 
             this.OKButt.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.OKButt.Image = ((System.Drawing.Image)(resources.GetObject("OKButt.Image")));
             this.OKButt.Location = new System.Drawing.Point(919, 430);
             this.OKButt.Name = "OKButt";
             this.OKButt.Size = new System.Drawing.Size(26, 26);
@@ -503,7 +498,6 @@ namespace LogonShell
             this.buttonOK.FlatAppearance.BorderColor = System.Drawing.Color.White;
             this.buttonOK.FlatAppearance.BorderSize = 0;
             this.buttonOK.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonOK.Image = ((System.Drawing.Image)(resources.GetObject("buttonOK.Image")));
             this.buttonOK.Location = new System.Drawing.Point(1121, 580);
             this.buttonOK.Name = "buttonOK";
             this.buttonOK.Size = new System.Drawing.Size(32, 30);
@@ -514,7 +508,6 @@ namespace LogonShell
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
             this.pictureBox4.Location = new System.Drawing.Point(0, 83);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(219, 207);
@@ -524,7 +517,6 @@ namespace LogonShell
             // 
             // XPlogo
             // 
-            this.XPlogo.Image = ((System.Drawing.Image)(resources.GetObject("XPlogo.Image")));
             this.XPlogo.Location = new System.Drawing.Point(612, 220);
             this.XPlogo.Name = "XPlogo";
             this.XPlogo.Size = new System.Drawing.Size(137, 86);
@@ -536,13 +528,13 @@ namespace LogonShell
             // 
             this.ToBegin.AutoSize = true;
             this.ToBegin.BackColor = System.Drawing.Color.Transparent;
-            this.ToBegin.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ToBegin.Font = new System.Drawing.Font("Tahoma", 30F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ToBegin.ForeColor = System.Drawing.Color.White;
             this.ToBegin.Location = new System.Drawing.Point(412, 354);
             this.ToBegin.Name = "ToBegin";
-            this.ToBegin.Size = new System.Drawing.Size(269, 23);
+            this.ToBegin.Size = new System.Drawing.Size(205, 48);
             this.ToBegin.TabIndex = 39;
-            this.ToBegin.Text = "To begin, click your user name";
+            this.ToBegin.Text = "Welcome";
             // 
             // textBox1
             // 
@@ -568,7 +560,6 @@ namespace LogonShell
             // pictureBox5
             // 
             this.pictureBox5.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
             this.pictureBox5.Location = new System.Drawing.Point(95, 706);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(26, 26);
@@ -581,7 +572,6 @@ namespace LogonShell
             // 
             // PFP
             // 
-            this.PFP.Image = ((System.Drawing.Image)(resources.GetObject("PFP.Image")));
             this.PFP.Location = new System.Drawing.Point(741, 258);
             this.PFP.Name = "PFP";
             this.PFP.Size = new System.Drawing.Size(48, 48);
