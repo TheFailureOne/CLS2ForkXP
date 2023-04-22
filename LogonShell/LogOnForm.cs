@@ -530,8 +530,8 @@ namespace LogonShell
 				OKButt.Visible = false;
 
                 ToBegin.Font = new System.Drawing.Font("Tahoma", 30F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-				ToBegin.Text = "Welcome";
-                ToBegin.Location = new System.Drawing.Point(VerticalSeparator.Location.X - ToBegin.Width - 40, (System.Windows.SystemParameters.WorkArea.Height.ToInt() / 2));
+                ToBegin.Text = "welcome";
+                ToBegin.Location = new System.Drawing.Point(VerticalSeparator.Location.X - ToBegin.Width - 40, pictureBox6.Location.Y + PFPAround.Location.Y + 20 - 10);
             }
 		}
 
