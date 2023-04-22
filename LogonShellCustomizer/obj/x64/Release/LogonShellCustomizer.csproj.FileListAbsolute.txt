@@ -46,3 +46,15 @@ C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShellCustomiz
 C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.GenerateResource.cache
 C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\LogonShellCustomizer\obj\x64\Release\Customizer.exe
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\bin\x64\Release\Customizer.exe
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.MainWindow.resources
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form2.resources
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form3.resources
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form4.resources
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Form5.resources
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\LogonShellCustomizer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\LogonShellCustomizer\obj\x64\Release\Customizer.exe

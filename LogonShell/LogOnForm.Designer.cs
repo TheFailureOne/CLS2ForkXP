@@ -46,8 +46,6 @@ namespace LogonShell
             this.labelKeySequence = new System.Windows.Forms.Label();
             this.labelShutdown = new System.Windows.Forms.Label();
             this.labelHint = new System.Windows.Forms.Label();
-            this.pictureBoxKeySequence = new System.Windows.Forms.PictureBox();
-            this.pictureBoxBanner = new System.Windows.Forms.PictureBox();
             this.backgroundWorkerCloseOnLogon = new System.ComponentModel.BackgroundWorker();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.comboBoxDomain = new System.Windows.Forms.ComboBox();
@@ -57,56 +55,61 @@ namespace LogonShell
             this.labelHelpLink = new System.Windows.Forms.Label();
             this.backgroundWorkerInteractiveUpdate = new System.ComponentModel.BackgroundWorker();
             this.labelCapsLock = new System.Windows.Forms.Label();
-            this.pictureBoxCapsLock = new System.Windows.Forms.PictureBox();
             this.backgroundWorkerCapsLockDetect = new System.ComponentModel.BackgroundWorker();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.NameLabel = new System.Windows.Forms.Label();
-            this.pictureBoxLoading = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.AddAcc = new System.Windows.Forms.TextBox();
-            this.VerticalSeparator = new System.Windows.Forms.PictureBox();
-            this.SelectedUser = new System.Windows.Forms.PictureBox();
-            this.PFPAround = new System.Windows.Forms.PictureBox();
             this.TypeUrPass = new System.Windows.Forms.Label();
             this.UserLabel = new System.Windows.Forms.Label();
-            this.OKButt = new System.Windows.Forms.PictureBox();
             this.buttonOK = new System.Windows.Forms.Button();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.XPlogo = new System.Windows.Forms.PictureBox();
             this.ToBegin = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.PFP = new System.Windows.Forms.PictureBox();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.XPlogo = new System.Windows.Forms.PictureBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.OKButt = new System.Windows.Forms.PictureBox();
+            this.PFPAround = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.SelectedUser = new System.Windows.Forms.PictureBox();
+            this.VerticalSeparator = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBoxCapsLock = new System.Windows.Forms.PictureBox();
+            this.pictureBoxKeySequence = new System.Windows.Forms.PictureBox();
+            this.pictureBoxLoading = new System.Windows.Forms.PictureBox();
+            this.pictureBoxBanner = new System.Windows.Forms.PictureBox();
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxKeySequence)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxBanner)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCapsLock)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLoading)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.VerticalSeparator)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.SelectedUser)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.PFPAround)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.OKButt)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.XPlogo)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.PFP)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.XPlogo)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.OKButt)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.PFPAround)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.SelectedUser)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.VerticalSeparator)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCapsLock)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxKeySequence)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLoading)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxBanner)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             this.SuspendLayout();
             // 
             // textBoxPassword
             // 
+            this.textBoxPassword.AcceptsReturn = true;
             this.textBoxPassword.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBoxPassword.Cursor = System.Windows.Forms.Cursors.Hand;
             this.textBoxPassword.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxPassword.Location = new System.Drawing.Point(974, 351);
+            this.textBoxPassword.Multiline = true;
             this.textBoxPassword.Name = "textBoxPassword";
             this.textBoxPassword.PasswordChar = '•';
-            this.textBoxPassword.Size = new System.Drawing.Size(149, 19);
+            this.textBoxPassword.Size = new System.Drawing.Size(149, 20);
             this.textBoxPassword.TabIndex = 2;
+            this.textBoxPassword.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBoxPassword_KeyPress);
             // 
             // buttonOptions
             // 
@@ -189,17 +192,19 @@ namespace LogonShell
             // labelLoading
             // 
             this.labelLoading.AutoSize = true;
-            this.labelLoading.Location = new System.Drawing.Point(272, 205);
+            this.labelLoading.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelLoading.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(156)))));
+            this.labelLoading.Location = new System.Drawing.Point(286, 189);
             this.labelLoading.Name = "labelLoading";
-            this.labelLoading.Size = new System.Drawing.Size(161, 13);
+            this.labelLoading.Size = new System.Drawing.Size(190, 13);
             this.labelLoading.TabIndex = 11;
-            this.labelLoading.Text = "Applying your personal settings...";
+            this.labelLoading.Text = "Loading your personal settings...";
             this.labelLoading.Visible = false;
             // 
             // comboBoxUsername
             // 
             this.comboBoxUsername.FormattingEnabled = true;
-            this.comboBoxUsername.Location = new System.Drawing.Point(344, 208);
+            this.comboBoxUsername.Location = new System.Drawing.Point(344, 236);
             this.comboBoxUsername.Name = "comboBoxUsername";
             this.comboBoxUsername.Size = new System.Drawing.Size(243, 21);
             this.comboBoxUsername.TabIndex = 13;
@@ -226,7 +231,7 @@ namespace LogonShell
             // labelShutdown
             // 
             this.labelShutdown.AutoSize = true;
-            this.labelShutdown.Location = new System.Drawing.Point(-3, 319);
+            this.labelShutdown.Location = new System.Drawing.Point(53, 348);
             this.labelShutdown.MaximumSize = new System.Drawing.Size(385, 0);
             this.labelShutdown.Name = "labelShutdown";
             this.labelShutdown.Size = new System.Drawing.Size(84, 13);
@@ -246,26 +251,6 @@ namespace LogonShell
             this.labelHint.TabIndex = 18;
             this.labelHint.Text = "Hint";
             this.labelHint.Visible = false;
-            // 
-            // pictureBoxKeySequence
-            // 
-            this.pictureBoxKeySequence.Location = new System.Drawing.Point(621, 236);
-            this.pictureBoxKeySequence.Name = "pictureBoxKeySequence";
-            this.pictureBoxKeySequence.Size = new System.Drawing.Size(48, 32);
-            this.pictureBoxKeySequence.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxKeySequence.TabIndex = 16;
-            this.pictureBoxKeySequence.TabStop = false;
-            this.pictureBoxKeySequence.Visible = false;
-            // 
-            // pictureBoxBanner
-            // 
-            this.pictureBoxBanner.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(156)))));
-            this.pictureBoxBanner.Location = new System.Drawing.Point(0, 0);
-            this.pictureBoxBanner.Name = "pictureBoxBanner";
-            this.pictureBoxBanner.Size = new System.Drawing.Size(1493, 81);
-            this.pictureBoxBanner.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBoxBanner.TabIndex = 0;
-            this.pictureBoxBanner.TabStop = false;
             // 
             // backgroundWorkerCloseOnLogon
             // 
@@ -346,30 +331,10 @@ namespace LogonShell
             this.labelCapsLock.Text = "Caps Lock is on.";
             this.labelCapsLock.Visible = false;
             // 
-            // pictureBoxCapsLock
-            // 
-            this.pictureBoxCapsLock.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.pictureBoxCapsLock.Location = new System.Drawing.Point(83, 696);
-            this.pictureBoxCapsLock.Name = "pictureBoxCapsLock";
-            this.pictureBoxCapsLock.Size = new System.Drawing.Size(16, 16);
-            this.pictureBoxCapsLock.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxCapsLock.TabIndex = 25;
-            this.pictureBoxCapsLock.TabStop = false;
-            this.pictureBoxCapsLock.Visible = false;
-            // 
             // backgroundWorkerCapsLockDetect
             // 
             this.backgroundWorkerCapsLockDetect.WorkerSupportsCancellation = true;
             this.backgroundWorkerCapsLockDetect.DoWork += new System.ComponentModel.DoWorkEventHandler(this.backgroundWorkerCapsLockDetect_DoWork);
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(964, 348);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(172, 29);
-            this.pictureBox1.TabIndex = 26;
-            this.pictureBox1.TabStop = false;
             // 
             // NameLabel
             // 
@@ -382,36 +347,6 @@ namespace LogonShell
             this.NameLabel.Size = new System.Drawing.Size(0, 32);
             this.NameLabel.TabIndex = 27;
             this.NameLabel.Text = this.textBoxUsername.Text;
-            // 
-            // pictureBoxLoading
-            // 
-            this.pictureBoxLoading.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxLoading.Image")));
-            this.pictureBoxLoading.Location = new System.Drawing.Point(0, 81);
-            this.pictureBoxLoading.Name = "pictureBoxLoading";
-            this.pictureBoxLoading.Size = new System.Drawing.Size(1366, 2);
-            this.pictureBoxLoading.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBoxLoading.TabIndex = 12;
-            this.pictureBoxLoading.TabStop = false;
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(156)))));
-            this.pictureBox2.Location = new System.Drawing.Point(0, 602);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(1493, 81);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 28;
-            this.pictureBox2.TabStop = false;
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(0, 689);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(1366, 3);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 29;
-            this.pictureBox3.TabStop = false;
             // 
             // AddAcc
             // 
@@ -426,40 +361,10 @@ namespace LogonShell
             this.AddAcc.ReadOnly = true;
             this.AddAcc.Size = new System.Drawing.Size(306, 49);
             this.AddAcc.TabIndex = 30;
+            this.AddAcc.TabStop = false;
             this.AddAcc.Text = "After you log on, you can add or change accounts.\r\nJust go to Control Panel and c" +
     "lick User Accounts.";
             this.AddAcc.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
-            // 
-            // VerticalSeparator
-            // 
-            this.VerticalSeparator.Image = ((System.Drawing.Image)(resources.GetObject("VerticalSeparator.Image")));
-            this.VerticalSeparator.Location = new System.Drawing.Point(702, 116);
-            this.VerticalSeparator.Name = "VerticalSeparator";
-            this.VerticalSeparator.Size = new System.Drawing.Size(1, 340);
-            this.VerticalSeparator.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.VerticalSeparator.TabIndex = 31;
-            this.VerticalSeparator.TabStop = false;
-            // 
-            // SelectedUser
-            // 
-            this.SelectedUser.Image = ((System.Drawing.Image)(resources.GetObject("SelectedUser.Image")));
-            this.SelectedUser.Location = new System.Drawing.Point(720, 245);
-            this.SelectedUser.Name = "SelectedUser";
-            this.SelectedUser.Size = new System.Drawing.Size(308, 72);
-            this.SelectedUser.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.SelectedUser.TabIndex = 32;
-            this.SelectedUser.TabStop = false;
-            // 
-            // PFPAround
-            // 
-            this.PFPAround.BackColor = System.Drawing.Color.Transparent;
-            this.PFPAround.Image = ((System.Drawing.Image)(resources.GetObject("PFPAround.Image")));
-            this.PFPAround.Location = new System.Drawing.Point(731, 251);
-            this.PFPAround.Name = "PFPAround";
-            this.PFPAround.Size = new System.Drawing.Size(58, 58);
-            this.PFPAround.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.PFPAround.TabIndex = 33;
-            this.PFPAround.TabStop = false;
             // 
             // TypeUrPass
             // 
@@ -485,20 +390,6 @@ namespace LogonShell
             this.UserLabel.TabIndex = 35;
             this.UserLabel.Text = "Type your password\r\n";
             // 
-            // OKButt
-            // 
-            this.OKButt.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.OKButt.Image = ((System.Drawing.Image)(resources.GetObject("OKButt.Image")));
-            this.OKButt.Location = new System.Drawing.Point(919, 430);
-            this.OKButt.Name = "OKButt";
-            this.OKButt.Size = new System.Drawing.Size(26, 26);
-            this.OKButt.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.OKButt.TabIndex = 36;
-            this.OKButt.TabStop = false;
-            this.OKButt.Click += new System.EventHandler(this.pictureBox4_Click);
-            this.OKButt.MouseCaptureChanged += new System.EventHandler(this.OKButt_MouseCaptureChanged);
-            this.OKButt.MouseDown += new System.Windows.Forms.MouseEventHandler(this.OKButt_MouseDown);
-            // 
             // buttonOK
             // 
             this.buttonOK.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
@@ -512,26 +403,6 @@ namespace LogonShell
             this.buttonOK.UseVisualStyleBackColor = true;
             this.buttonOK.Visible = false;
             this.buttonOK.Click += new System.EventHandler(this.buttonOK_Click);
-            // 
-            // pictureBox4
-            // 
-            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(0, 83);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(219, 207);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox4.TabIndex = 37;
-            this.pictureBox4.TabStop = false;
-            // 
-            // XPlogo
-            // 
-            this.XPlogo.Image = ((System.Drawing.Image)(resources.GetObject("XPlogo.Image")));
-            this.XPlogo.Location = new System.Drawing.Point(612, 220);
-            this.XPlogo.Name = "XPlogo";
-            this.XPlogo.Size = new System.Drawing.Size(137, 86);
-            this.XPlogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.XPlogo.TabIndex = 38;
-            this.XPlogo.TabStop = false;
             // 
             // ToBegin
             // 
@@ -566,10 +437,20 @@ namespace LogonShell
             this.textBox1.MouseEnter += new System.EventHandler(this.textBox1_Enter);
             this.textBox1.MouseLeave += new System.EventHandler(this.textBox1_Leave);
             // 
+            // PFP
+            // 
+            this.PFP.Image = global::LogonShell.Properties.Resources.PFP;
+            this.PFP.Location = new System.Drawing.Point(741, 258);
+            this.PFP.Name = "PFP";
+            this.PFP.Size = new System.Drawing.Size(48, 48);
+            this.PFP.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.PFP.TabIndex = 42;
+            this.PFP.TabStop = false;
+            // 
             // pictureBox5
             // 
             this.pictureBox5.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
+            this.pictureBox5.Image = global::LogonShell.Properties.Resources.Shutdown;
             this.pictureBox5.Location = new System.Drawing.Point(95, 706);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(26, 26);
@@ -580,15 +461,140 @@ namespace LogonShell
             this.pictureBox5.MouseEnter += new System.EventHandler(this.textBox1_Enter);
             this.pictureBox5.MouseLeave += new System.EventHandler(this.textBox1_Leave);
             // 
-            // PFP
+            // XPlogo
             // 
-            this.PFP.Image = ((System.Drawing.Image)(resources.GetObject("PFP.Image")));
-            this.PFP.Location = new System.Drawing.Point(741, 258);
-            this.PFP.Name = "PFP";
-            this.PFP.Size = new System.Drawing.Size(48, 48);
-            this.PFP.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.PFP.TabIndex = 42;
-            this.PFP.TabStop = false;
+            this.XPlogo.Image = ((System.Drawing.Image)(resources.GetObject("XPlogo.Image")));
+            this.XPlogo.Location = new System.Drawing.Point(612, 220);
+            this.XPlogo.Name = "XPlogo";
+            this.XPlogo.Size = new System.Drawing.Size(137, 86);
+            this.XPlogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.XPlogo.TabIndex = 38;
+            this.XPlogo.TabStop = false;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = global::LogonShell.Properties.Resources.Shade;
+            this.pictureBox4.Location = new System.Drawing.Point(0, 83);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(219, 207);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox4.TabIndex = 37;
+            this.pictureBox4.TabStop = false;
+            // 
+            // OKButt
+            // 
+            this.OKButt.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.OKButt.Image = global::LogonShell.Properties.Resources.GoIcon;
+            this.OKButt.Location = new System.Drawing.Point(919, 430);
+            this.OKButt.Name = "OKButt";
+            this.OKButt.Size = new System.Drawing.Size(26, 26);
+            this.OKButt.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.OKButt.TabIndex = 36;
+            this.OKButt.TabStop = false;
+            this.OKButt.Click += new System.EventHandler(this.pictureBox4_Click);
+            this.OKButt.MouseCaptureChanged += new System.EventHandler(this.OKButt_MouseCaptureChanged);
+            this.OKButt.MouseDown += new System.Windows.Forms.MouseEventHandler(this.OKButt_MouseDown);
+            // 
+            // PFPAround
+            // 
+            this.PFPAround.BackColor = System.Drawing.Color.Transparent;
+            this.PFPAround.Image = ((System.Drawing.Image)(resources.GetObject("PFPAround.Image")));
+            this.PFPAround.Location = new System.Drawing.Point(731, 251);
+            this.PFPAround.Name = "PFPAround";
+            this.PFPAround.Size = new System.Drawing.Size(58, 58);
+            this.PFPAround.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.PFPAround.TabIndex = 33;
+            this.PFPAround.TabStop = false;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::LogonShell.Properties.Resources.InputArea;
+            this.pictureBox1.Location = new System.Drawing.Point(964, 348);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(172, 29);
+            this.pictureBox1.TabIndex = 26;
+            this.pictureBox1.TabStop = false;
+            // 
+            // SelectedUser
+            // 
+            this.SelectedUser.Image = global::LogonShell.Properties.Resources.SelectedUserBackground;
+            this.SelectedUser.Location = new System.Drawing.Point(720, 245);
+            this.SelectedUser.Name = "SelectedUser";
+            this.SelectedUser.Size = new System.Drawing.Size(308, 72);
+            this.SelectedUser.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.SelectedUser.TabIndex = 32;
+            this.SelectedUser.TabStop = false;
+            // 
+            // VerticalSeparator
+            // 
+            this.VerticalSeparator.Image = global::LogonShell.Properties.Resources.DividerXPLogoAndLoginScreen;
+            this.VerticalSeparator.Location = new System.Drawing.Point(702, 116);
+            this.VerticalSeparator.Name = "VerticalSeparator";
+            this.VerticalSeparator.Size = new System.Drawing.Size(1, 340);
+            this.VerticalSeparator.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.VerticalSeparator.TabIndex = 31;
+            this.VerticalSeparator.TabStop = false;
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = global::LogonShell.Properties.Resources.DividerBottom;
+            this.pictureBox3.Location = new System.Drawing.Point(0, 689);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(1366, 3);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 29;
+            this.pictureBox3.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(156)))));
+            this.pictureBox2.Location = new System.Drawing.Point(0, 602);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(1493, 81);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 28;
+            this.pictureBox2.TabStop = false;
+            // 
+            // pictureBoxCapsLock
+            // 
+            this.pictureBoxCapsLock.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.pictureBoxCapsLock.Location = new System.Drawing.Point(83, 696);
+            this.pictureBoxCapsLock.Name = "pictureBoxCapsLock";
+            this.pictureBoxCapsLock.Size = new System.Drawing.Size(16, 16);
+            this.pictureBoxCapsLock.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxCapsLock.TabIndex = 25;
+            this.pictureBoxCapsLock.TabStop = false;
+            this.pictureBoxCapsLock.Visible = false;
+            // 
+            // pictureBoxKeySequence
+            // 
+            this.pictureBoxKeySequence.Location = new System.Drawing.Point(621, 236);
+            this.pictureBoxKeySequence.Name = "pictureBoxKeySequence";
+            this.pictureBoxKeySequence.Size = new System.Drawing.Size(48, 32);
+            this.pictureBoxKeySequence.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxKeySequence.TabIndex = 16;
+            this.pictureBoxKeySequence.TabStop = false;
+            this.pictureBoxKeySequence.Visible = false;
+            // 
+            // pictureBoxLoading
+            // 
+            this.pictureBoxLoading.Image = global::LogonShell.Properties.Resources.DividerTop;
+            this.pictureBoxLoading.Location = new System.Drawing.Point(0, 81);
+            this.pictureBoxLoading.Name = "pictureBoxLoading";
+            this.pictureBoxLoading.Size = new System.Drawing.Size(1366, 2);
+            this.pictureBoxLoading.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBoxLoading.TabIndex = 12;
+            this.pictureBoxLoading.TabStop = false;
+            // 
+            // pictureBoxBanner
+            // 
+            this.pictureBoxBanner.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(48)))), ((int)(((byte)(156)))));
+            this.pictureBoxBanner.Location = new System.Drawing.Point(0, 0);
+            this.pictureBoxBanner.Name = "pictureBoxBanner";
+            this.pictureBoxBanner.Size = new System.Drawing.Size(1493, 81);
+            this.pictureBoxBanner.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBoxBanner.TabIndex = 0;
+            this.pictureBoxBanner.TabStop = false;
             // 
             // pictureBox6
             // 
@@ -661,21 +667,21 @@ namespace LogonShell
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.LogOnForm_Load);
             this.Shown += new System.EventHandler(this.Form1_Shown);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxKeySequence)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxBanner)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCapsLock)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLoading)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.VerticalSeparator)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.SelectedUser)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.PFPAround)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.OKButt)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.XPlogo)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.PFP)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.XPlogo)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.OKButt)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.PFPAround)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.SelectedUser)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.VerticalSeparator)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCapsLock)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxKeySequence)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLoading)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxBanner)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

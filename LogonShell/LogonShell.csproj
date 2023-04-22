@@ -137,6 +137,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cache.cs" />
+    <Compile Include="Class1.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="SecondaryBackgrounds1.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -252,7 +255,21 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="logon.ico" />
-    <Content Include="Resources\GoIcon.bmp" />
+    <None Include="Resources\UserHoverOrSelected1.png" />
+    <None Include="Resources\XPLogo1.bmp" />
+    <None Include="Resources\XPLogo.bmp" />
+    <None Include="Resources\UserNotHoverOrSelected.bmp" />
+    <None Include="Resources\UserHoverOrSelected.png" />
+    <None Include="Resources\UserHoverOrSelected.bmp" />
+    <None Include="Resources\Shutdown.bmp" />
+    <None Include="Resources\Shade.bmp" />
+    <None Include="Resources\SelectedUserBackground.bmp" />
+    <None Include="Resources\PFP.bmp" />
+    <None Include="Resources\InputArea.bmp" />
+    <None Include="Resources\GoIcon.bmp" />
+    <None Include="Resources\DividerBottom.bmp" />
+    <None Include="Resources\DividerTop.bmp" />
+    <None Include="Resources\DividerXPLogoAndLoginScreen.bmp" />
     <Content Include="Resources\GoIconSelected.bmp" />
     <None Include="Resources\CLS.png" />
   </ItemGroup>

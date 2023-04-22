@@ -490,8 +490,24 @@ namespace LogonShell
 				{
 					pictureBoxBanner.SizeMode = PictureBoxSizeMode.CenterImage;
 				}
-				labelShutdown.Visible = true;
-			}
+				labelShutdown.Visible = false;
+                XPlogo.Location = new System.Drawing.Point(System.Windows.SystemParameters.WorkArea.Width.ToInt() / 2 + 39, SelectedUser.Location.Y + 7 - 31);
+				ToBegin.Location = new System.Drawing.Point(System.Windows.SystemParameters.WorkArea.Width.ToInt() / 2 - 84, XPlogo.Location.Y + 24 + 86);
+				ToBegin.Text = "Windows is shutting down...";
+
+				AddAcc.Visible = false;
+				VerticalSeparator.Visible = false;
+				SelectedUser.Visible = false;
+				PFPAround.Visible = false;
+				pictureBox1.Visible = false;
+				TypeUrPass.Visible = false;
+				UserLabel.Visible = false;
+				OKButt.Visible = false;
+				textBox1.Visible = false;
+				pictureBox5.Visible = false;
+				PFP.Visible = false;
+				textBoxPassword.Visible = false;
+            }
 			else
 			{
 				if (!Boolean.Parse(Settings.Read(37)))
@@ -502,7 +518,7 @@ namespace LogonShell
                 UserLabel.Parent = pictureBox6;
                 PFPAround.Parent = pictureBox6;
 
-                labelLoading.Location = new System.Drawing.Point(TypeUrPass.Location.X + pictureBox6.Location.X, TypeUrPass.Location.Y + pictureBox6.Location.Y);
+                labelLoading.Location = new System.Drawing.Point(TypeUrPass.Location.X + pictureBox6.Location.X - 2, TypeUrPass.Location.Y + pictureBox6.Location.Y);
 
                 labelLoading.Visible = true;
                 TypeUrPass.Visible = false;
@@ -515,7 +531,7 @@ namespace LogonShell
 
                 ToBegin.Font = new System.Drawing.Font("Tahoma", 30F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 				ToBegin.Text = "Welcome";
-                ToBegin.Location = new System.Drawing.Point(VerticalSeparator.Location.X - ToBegin.Width - 40, (System.Windows.SystemParameters.WorkArea.Height.ToInt() / 2) - ToBegin.Height);
+                ToBegin.Location = new System.Drawing.Point(VerticalSeparator.Location.X - ToBegin.Width - 40, (System.Windows.SystemParameters.WorkArea.Height.ToInt() / 2));
             }
 		}
 
@@ -823,6 +839,52 @@ namespace LogonShell
             if (result == DialogResult.OK)
                 ShowLoading(true);
             ShutdownForm.Dispose();
+        }
+
+        private void textBoxPassword_KeyDown(object sender, System.Windows.Forms.KeyPressEventArgs e)
+        {
+			
+        }
+
+        private void textBoxPassword_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            int ascii = (int)e.KeyChar;
+            if (ascii == 13)
+            {
+                e.Handled = true;
+                IntPtr user = new IntPtr();
+                bool succes = LogonUser(UsernameBox.Text, comboBoxDomain.Text, textBoxPassword.Text, 3, 0, ref user);
+                if (!succes)
+                {
+                    if (Marshal.GetLastWin32Error() == 1326)
+                    {
+                        new MessageBoxForm(Settings.Read(21, true), Settings.Read(22, true), 1).ShowDialog();
+                        if (Settings.Read(24).ToLower() == "tryfirst")
+                            GetUserPasswordHint();
+                        textBoxPassword.Text = "";
+                        textBoxPassword.Focus();
+                        return;
+                    }
+                    else
+                    {
+                        new MessageBoxForm(Settings.Read(23, true), Marshal.GetExceptionForHR(Marshal.GetHRForLastWin32Error()).Message, 0).ShowDialog();
+                        return;
+                    }
+                }
+
+                try
+                {
+                    Logon.Login(UsernameBox.Text, textBoxPassword.Text, String.Compare(GetLastUserLoggedOn(), UsernameBox.Text, CultureInfo.CurrentCulture, CompareOptions.IgnoreCase | CompareOptions.IgnoreSymbols) == 0);
+                }
+                catch (Exception ex)
+                {
+                    new MessageBoxForm(Settings.Read(23, true), ex.Message, 0).ShowDialog();
+                    Application.Exit();
+                }
+                ShowLoading();
+                backgroundWorkerCapsLockDetect.CancelAsync();
+                backgroundWorkerCloseOnLogon.RunWorkerAsync();
+            }
         }
     }
 }

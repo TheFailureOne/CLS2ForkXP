@@ -35,3 +35,12 @@ C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\Logon Screen Launc
 C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.GenerateResource.cache
 C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\2257255110\Classic Logon Shell\Logon Screen Launcher\obj\x64\Release\LauncherService.exe
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\Logon Screen Launcher\bin\x64\Release\LauncherService.exe
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\Logon Screen Launcher\bin\x64\Release\Interop.EventSystemLib.dll
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\Logon Screen Launcher\obj\x64\Release\Interop.EventSystemLib.dll
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\Logon Screen Launcher\obj\x64\Release\ClassicLogonShell.ProjectInstaller.resources
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\Logon Screen Launcher\obj\x64\Release\Logon Screen Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\CLS2ForkXP\Logon Screen Launcher\obj\x64\Release\LauncherService.exe
